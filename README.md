@@ -45,10 +45,12 @@ Use these as a starting point — or write your own!
 | [GitHub Copilot SDK Getting Started Guide](https://github.com/github/copilot-sdk/blob/main/docs/getting-started.md?utm_source=build-brk206-related-sdk-getting-started-cta&utm_medium=event&utm_campaign=msbuild-2026) | Build your first Copilot-powered app|
 
 ### Related Labs
-| Lab Title | Repo Link |
-|:---------|:------------|
-| LAB500	Terminal to Party: Live-Coding with GitHub Copilot CLI and Hydra |	https://github.com/microsoft/Build26-LAB500-terminal-to-party-live-coding-with-github-copilot-cli-and-hydra |
-| LAB502	Make GitHub Copilot Work Your Way: Custom Tools, Context and Workflows | https://github.com/microsoft/Build26-LAB502-make-github-copilot-work-your-way-custom-tools-context-and-workflows |
+
+| Lab | Title | Repo |
+|-----|-------|------|
+| LAB500 | Terminal to Party: Live-Coding with GitHub Copilot CLI and Hydra | https://github.com/microsoft/Build26-LAB500-terminal-to-party-live-coding-with-github-copilot-cli-and-hydra |
+| LAB502 | Make GitHub Copilot Work Your Way: Custom Tools, Context and Workflows | https://github.com/microsoft/Build26-LAB502-make-github-copilot-work-your-way-custom-tools-context-and-workflows |
+
 
 ### 🌟 Microsoft Learn MCP Server
 
